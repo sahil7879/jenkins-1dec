@@ -4,5 +4,5 @@
 - [jenkins reset password](https://www.jenkins.io/doc/book/system-administration/admin-password-reset-instructions/) 
 - [docker installation ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 - [diagrams](https://excalidraw.com/#json=iWd2EiRUPxWtJza_EfbfV,I5IB02erJZqw2-CCJZsE5g)
-- [repo for freestyle](https://github.com/sahil7879/javawebapp.git)
-- [repo for pipeline](https://github.com/sahil7879/ci-cd-pipeline.git)
+- [github repo for freestyle](https://github.com/sahil7879/javawebapp.git)
+- [github repo for pipeline](https://github.com/sahil7879/ci-cd-pipeline.git)
